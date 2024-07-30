@@ -202,6 +202,10 @@ button:focus {
     box-shadow: none;
     background-clip: border-box; }
 
+.links_btn {
+  margin-right: 20px;
+}
+
 .overlay {
   position: absolute;
   left: 0;
@@ -344,7 +348,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
+  background: url(../img/purple_swirl.png) no-repeat top center;
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
