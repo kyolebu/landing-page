@@ -16,7 +16,7 @@
     $subject = "You have a message from your personal website.";
 
     $logo = 'img/purple_flame_logo.png';
-    $link = '#';
+    $link = 'https://kylecyu.com/';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
