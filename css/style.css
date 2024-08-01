@@ -348,7 +348,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/purple_swirl.png) no-repeat top center;
+  background: url(../img/back.avif) no-repeat top center;
   background-position: center;
   background-size: cover; }
   .home_banner_area .banner_inner {
